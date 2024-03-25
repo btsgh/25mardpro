@@ -1,0 +1,29 @@
+{
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    },
+    {
+      "id": "Assets-test.appsmith.com",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  },
+  "color": "#F1DEFF",
+  "icon": "line-chart",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
