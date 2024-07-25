@@ -1,0 +1,32 @@
+{
+  "gitSyncId": "66a1fd511d5adb0414224713_ecc0ff48-90c6-4119-b637-c05c6c7f69a3",
+  "unpublishedPage": {
+    "isHidden": false,
+    "layouts": [
+      {
+        "dsl": {
+          "backgroundColor": "none",
+          "bottomRow": 660.0,
+          "canExtend": true,
+          "containerStyle": "none",
+          "detachFromLayout": true,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0.0,
+          "minHeight": 670.0,
+          "parentColumnSpace": 1.0,
+          "parentRowSpace": 1.0,
+          "rightColumn": 1160.0,
+          "snapColumns": 64.0,
+          "snapRows": 66.0,
+          "topRow": 0.0,
+          "type": "CANVAS_WIDGET",
+          "version": 89.0,
+          "widgetId": "0",
+          "widgetName": "MainContainer"
+        }
+      }
+    ],
+    "name": "New vehicle",
+    "slug": "new-vehicle"
+  }
+}
