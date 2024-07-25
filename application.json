@@ -23,6 +23,30 @@
   "icon": "line-chart",
   "pages": [
     {
+      "id": "2 Application Upload",
+      "isDefault": false
+    },
+    {
+      "id": "1 Track Applications",
+      "isDefault": false
+    },
+    {
+      "id": "Submit new order",
+      "isDefault": false
+    },
+    {
+      "id": "Home Page",
+      "isDefault": false
+    },
+    {
+      "id": "Admin",
+      "isDefault": false
+    },
+    {
+      "id": "My orders",
+      "isDefault": false
+    },
+    {
       "id": "Schedule",
       "isDefault": false
     },
