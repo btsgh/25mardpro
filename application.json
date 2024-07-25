@@ -23,6 +23,18 @@
   "icon": "line-chart",
   "pages": [
     {
+      "id": "Schedule",
+      "isDefault": false
+    },
+    {
+      "id": "New vehicle",
+      "isDefault": false
+    },
+    {
+      "id": "Home page",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     },
