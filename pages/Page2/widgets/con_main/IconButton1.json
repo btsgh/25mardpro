@@ -42,8 +42,8 @@
     "selectionColorCSSVar": "--on-canvas-ui-widget-focus"
   },
   "onClick": "{{copyToClipboard(Input1.text);\nshowAlert('Copied', 'success');}}",
-  "originalBottomRow": 40,
-  "originalTopRow": 36,
+  "originalBottomRow": 42,
+  "originalTopRow": 38,
   "parentColumnSpace": 5.3955078125,
   "parentId": "81kry6urva",
   "parentRowSpace": 10,
