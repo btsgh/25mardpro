@@ -28,6 +28,10 @@
   "icon": "line-chart",
   "pages": [
     {
+      "id": "WhatsAppMGR",
+      "isDefault": false
+    },
+    {
       "id": "Schedule",
       "isDefault": false
     },

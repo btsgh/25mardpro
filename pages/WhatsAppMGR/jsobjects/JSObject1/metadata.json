@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "6764ec79b550140ece5ec13e_7690dc99-e94e-40eb-be93-2c8c74e69372",
+  "id": "WhatsAppMGR_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "WhatsAppMGR",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "welcome",
+        "value": "`Welcome to our group! Here's a link to the new member paperwork:\n`"
+      },
+      {
+        "name": "renewal",
+        "value": "`A friendly reminder that your membership is about to expire. Please renew your subscriptions at:\n`"
+      },
+      {
+        "name": "thankyou",
+        "value": "`Thank you for supporting our group! Your membership has been renewed.\n`"
+      }
+    ]
+  }
+}
