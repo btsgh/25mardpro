@@ -48,6 +48,7 @@
     "executeOnLoad": false,
     "name": "ReadFile",
     "pageId": "Assets-test.appsmith.com",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

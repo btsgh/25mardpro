@@ -54,6 +54,7 @@
     "executeOnLoad": false,
     "name": "CreateFile",
     "pageId": "Assets-test.appsmith.com",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": true
   }
 }

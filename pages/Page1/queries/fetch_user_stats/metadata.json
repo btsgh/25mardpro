@@ -31,6 +31,7 @@
     "fullyQualifiedName": "fetch_user_stats",
     "name": "fetch_user_stats",
     "pageId": "Page1",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

@@ -26,6 +26,7 @@
     "executeOnLoad": true,
     "name": "select_cars",
     "pageId": "Schedule",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

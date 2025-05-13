@@ -27,6 +27,7 @@
     "fullyQualifiedName": "JSObject1.search",
     "name": "search",
     "pageId": "Schedule",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

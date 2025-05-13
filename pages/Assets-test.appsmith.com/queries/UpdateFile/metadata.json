@@ -53,6 +53,7 @@
     "executeOnLoad": false,
     "name": "UpdateFile",
     "pageId": "Assets-test.appsmith.com",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

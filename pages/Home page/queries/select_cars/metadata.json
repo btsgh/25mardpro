@@ -30,6 +30,7 @@
     "executeOnLoad": true,
     "name": "select_cars",
     "pageId": "Home page",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

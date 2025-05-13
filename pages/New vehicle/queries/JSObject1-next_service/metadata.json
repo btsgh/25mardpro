@@ -27,6 +27,7 @@
     "fullyQualifiedName": "JSObject1.next_service",
     "name": "next_service",
     "pageId": "New vehicle",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

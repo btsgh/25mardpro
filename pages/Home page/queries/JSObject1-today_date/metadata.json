@@ -27,6 +27,7 @@
     "fullyQualifiedName": "JSObject1.today_date",
     "name": "today_date",
     "pageId": "Home page",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

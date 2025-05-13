@@ -27,6 +27,7 @@
     "fullyQualifiedName": "JSObject1.service_due",
     "name": "service_due",
     "pageId": "Home page",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

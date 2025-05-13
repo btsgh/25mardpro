@@ -26,6 +26,7 @@
     "executeOnLoad": false,
     "name": "select_cars",
     "pageId": "New vehicle",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

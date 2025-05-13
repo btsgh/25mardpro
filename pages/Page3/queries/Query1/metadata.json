@@ -60,6 +60,7 @@
     "executeOnLoad": true,
     "name": "Query1",
     "pageId": "Page3",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }
