@@ -51,7 +51,6 @@
       "pluginId": "amazons3-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
     "name": "CreateFile",
     "pageId": "Assets-test.appsmith.com",
     "runBehaviour": "MANUAL",

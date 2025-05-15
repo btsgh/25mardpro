@@ -90,7 +90,6 @@
       "pluginId": "amazons3-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": true,
     "name": "ListFiles",
     "pageId": "Assets-test.appsmith.com",
     "runBehaviour": "ON_PAGE_LOAD",
