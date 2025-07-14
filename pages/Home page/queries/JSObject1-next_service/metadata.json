@@ -23,7 +23,6 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "JSObject1.next_service",
     "name": "next_service",
     "pageId": "Home page",

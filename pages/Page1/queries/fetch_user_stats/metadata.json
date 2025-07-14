@@ -27,7 +27,6 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": true,
     "fullyQualifiedName": "fetch_user_stats",
     "name": "fetch_user_stats",
     "pageId": "Page1",

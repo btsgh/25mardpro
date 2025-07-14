@@ -23,7 +23,6 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "JSObject1.today_date",
     "name": "today_date",
     "pageId": "Home page",
