@@ -52,10 +52,10 @@
         "key": "bodyFormData[0].value"
       }
     ],
-    "executeOnLoad": true,
     "fullyQualifiedName": "upload_file",
     "name": "upload_file",
     "pageId": "Page2",
+    "runBehaviour": "ON_PAGE_LOAD",
     "userSetOnLoad": false
   }
 }

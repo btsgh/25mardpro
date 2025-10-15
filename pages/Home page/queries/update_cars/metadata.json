@@ -27,9 +27,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "update_cars",
     "pageId": "Home page",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

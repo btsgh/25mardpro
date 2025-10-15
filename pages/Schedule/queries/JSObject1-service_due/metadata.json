@@ -23,10 +23,10 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "JSObject1.service_due",
     "name": "service_due",
     "pageId": "Schedule",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

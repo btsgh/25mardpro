@@ -27,9 +27,9 @@
         "key": "body"
       }
     ],
-    "executeOnLoad": false,
     "name": "insert_cars",
     "pageId": "New vehicle",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }

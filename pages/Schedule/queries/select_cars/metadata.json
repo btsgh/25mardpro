@@ -23,9 +23,9 @@
       "pluginId": "postgres-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
     "name": "select_cars",
     "pageId": "Schedule",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
